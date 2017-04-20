@@ -24,7 +24,7 @@ Initialisation
  8. Install required packages :
         `pip install -r requirements.txt`
  9. Initialise Database :
-        `python create_db.py`
+        `python createdb.py`
  4. Start the server :
         `python manage.py runserver`
  5. Go to `http://localhost:8000`
